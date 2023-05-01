@@ -1,0 +1,4 @@
+paddlepaddle-gpu
+paddleocr
+opencv-contrib-python==4.5.5.62
+ultralytics
